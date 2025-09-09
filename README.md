@@ -1,1 +1,1 @@
-this repositury is for learning and testing.
+this repository is for learning and testing.
